@@ -8,6 +8,6 @@ This is a course requirement for the subject Applications Development and Emergi
  3. If the email or password is incorrect there will be a pop-up screen that will notify you that the deatils was incorrect.
  4. To go back to the login screen tap the try again button.
  5. To access the homepage kindly enter the following details:
-&emsp;Email: cictapps@wvsu.edu.ph
-&emsp;Password: toor
+<br>&emsp;Email: cictapps@wvsu.edu.ph
+<br>&emsp;Password: toor
 6. There will be a logout button under to go back to login screen.
